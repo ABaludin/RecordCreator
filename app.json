@@ -9,7 +9,7 @@
   "EULA": "",
   "help": "",
   "url": "",
-  "logo": "",
+  "logo": "Directions.jpg",
   "features": ["GenerateCaptions",
   "TranslationFile"],
   "dependencies": [
