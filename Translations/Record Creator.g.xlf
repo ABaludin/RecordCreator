@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="Record Creator">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 3583438830 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Record Creator Setup</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AB_RecordCreator Setup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3583438830 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>AB_RecordCreator Setup</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AB_RecordCreator Setup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3583438830 - Field 883711285 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Entry No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AB_RecordCreator Setup - Field Entry No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3583438830 - Field 883711285 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Entry No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AB_RecordCreator Setup - Field Entry No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3583438830 - Field 3951414661 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>API URL</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AB_RecordCreator Setup - Field API URL - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3583438830 - Field 3951414661 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>API URL</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AB_RecordCreator Setup - Field API URL - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3583438830 - Field 2994142618 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Username</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AB_RecordCreator Setup - Field Username - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3583438830 - Field 2994142618 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Username</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AB_RecordCreator Setup - Field Username - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3583438830 - Field 2226963717 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Web Access Key</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AB_RecordCreator Setup - Field Web Access Key - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3583438830 - Field 2226963717 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Web Access Key</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AB_RecordCreator Setup - Field Web Access Key - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3583438830 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>AB_RecordCreator Setup</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AB_RecordCreator Setup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3583438830 - Action 4263468516 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Test Connection</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AB_RecordCreator Setup - Action TestConnection - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3640570125 - NamedType 420700410" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Service inaccessible</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit AB_Record Creation Management - NamedType Text001_Err</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3640570125 - NamedType 3234760735" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The web service returned an error message:\ Status code: %1\ Description: %2</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit AB_Record Creation Management - NamedType Text002_Err</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3640570125 - NamedType 2438348572" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Connection OK!</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit AB_Record Creation Management - NamedType Text003_Msg</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3640570125 - NamedType 2656909745" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item created: %1 %2</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit AB_Record Creation Management - NamedType Text004_Msg</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3640570125 - NamedType 4177705994" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer created: %1 %2</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit AB_Record Creation Management - NamedType Text005_Msg</note>
+        </trans-unit>
+        <trans-unit id="Page 3732352468 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Data Creator</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AB_DataCreator - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3732352468 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>AB_DataCreator</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AB_DataCreator - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3732352468 - Action 1810708843 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>CreateRecord</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AB_DataCreator - Action CreateRecord - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
