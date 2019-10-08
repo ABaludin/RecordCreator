@@ -4,6 +4,7 @@ page 50032 "AB_RecordCreator Setup"
     ApplicationArea = All;
     UsageCategory = Administration;
     SourceTable = "AB_RecordCreator Setup";
+    Caption = 'Record Creator Setup';
 
 
     layout

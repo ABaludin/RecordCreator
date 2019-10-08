@@ -54,6 +54,11 @@
           <note from="Xliff Generator" annotates="general" priority="3">Table AB_RecordCreator Setup - Field Web Access Key - Property Caption</note>
         </trans-unit>
         <trans-unit id="Page 3583438830 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Record Creator Setup</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AB_RecordCreator Setup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3583438830 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>AB_RecordCreator Setup</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page AB_RecordCreator Setup - Property Caption</note>
