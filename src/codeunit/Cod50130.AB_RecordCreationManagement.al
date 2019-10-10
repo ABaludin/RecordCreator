@@ -1,4 +1,4 @@
-codeunit 50030 "AB_Record Creation Management"
+codeunit 50130 "AB_Record Creation Management"
 {
     local procedure GetSetup()
     begin

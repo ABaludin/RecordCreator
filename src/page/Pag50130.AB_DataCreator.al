@@ -1,4 +1,4 @@
-page 50030 "AB_DataCreator"
+page 50130 "AB_DataCreator"
 {
     PageType = Card;
     ApplicationArea = All;

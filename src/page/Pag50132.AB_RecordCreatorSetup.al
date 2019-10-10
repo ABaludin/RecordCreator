@@ -1,4 +1,4 @@
-page 50032 "AB_RecordCreator Setup"
+page 50132 "AB_RecordCreator Setup"
 {
     PageType = Card;
     ApplicationArea = All;

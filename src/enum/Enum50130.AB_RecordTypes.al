@@ -1,4 +1,4 @@
-enum 50030 "AB_RecordTypes"
+enum 50130 "AB_RecordTypes"
 {
     Extensible = true;
 

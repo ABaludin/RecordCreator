@@ -1,4 +1,4 @@
-table 50030 "AB_RecordCreator Setup"
+table 50130 "AB_RecordCreator Setup"
 {
     DataClassification = CustomerContent;
     Caption = 'Record Creator Setup';
